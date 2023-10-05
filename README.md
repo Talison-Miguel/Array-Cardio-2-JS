@@ -50,7 +50,7 @@ Exercícios de array usando javaScript Puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Array-Cardio.git
+  ❯ git clone https://github.com/Talison-Miguel/Array-Cardio-2-JS.git
 ```
 
 ---
