@@ -29,7 +29,7 @@
 
 ## :rocket: Sobre o Repositório
 
-Exercícios de array usando javaScript Puro.
+Exercícios de array 2, usando javaScript Puro.
 
 ---
 
